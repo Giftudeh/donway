@@ -1,0 +1,55 @@
+.container{
+    width:400px;
+    min-height: 400px;
+    background-color: lightblue ;
+    padding:15px 20px ;
+    margin: auto;
+}
+img{
+    margin: 0 43%;
+   
+}
+.bg-img{
+margin: auto;
+}
+
+.header{
+    text-align: center;
+    font-size: 200;
+    line-height: 10px;
+    color: #0087a2
+}
+.header span {
+    color: black;
+}
+
+P{
+    text-align: center;
+    padding: 0%
+}
+
+li{
+font-family: sans-serif;
+font-size: small;
+margin-bottom: 0%;
+}
+h3{
+    background-color: #0087a2;
+    color: white;
+    width: 200px;
+    margin-top: -15px;
+    padding: 5px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
